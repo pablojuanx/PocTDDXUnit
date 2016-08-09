@@ -11,7 +11,7 @@ namespace ExemploTDD
         /// <returns></returns>
         public static double FahrenheitParaCelsius(double temperatura)
         {
-            return Math.Round((temperatura - 32) / 1.2, 2);
+            return Math.Round((temperatura - 32) / 12, 2);
 
 
 
